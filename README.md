@@ -18,8 +18,8 @@ Current build status
 <table><tr>
     <td>Appveyor</td>
     <td>
-      <a href="https://ci.appveyor.com/project/conda-forge/r-awsmethods-feedstock/branch/master">
-        <img alt="windows" src="https://img.shields.io/appveyor/ci/conda-forge/r-awsmethods-feedstock/master.svg?label=Windows">
+      <a href="https://ci.appveyor.com/project/conda-forge/r-awsMethods-feedstock/branch/master">
+        <img alt="windows" src="https://img.shields.io/appveyor/ci/conda-forge/r-awsMethods-feedstock/master.svg?label=Windows">
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@ Current build status
       <details>
         <summary>
           <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=3337&branchName=master">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsmethods-feedstock?branchName=master">
+            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsMethods-feedstock?branchName=master">
           </a>
         </summary>
         <table>
@@ -39,21 +39,21 @@ Current build status
               <td>linux_target_platformlinux-64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=3337&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsmethods-feedstock?branchName=master&jobName=linux&configuration=linux_target_platformlinux-64" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsMethods-feedstock?branchName=master&jobName=linux&configuration=linux_target_platformlinux-64" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_target_platformosx-64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=3337&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsmethods-feedstock?branchName=master&jobName=osx&configuration=osx_target_platformosx-64" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsMethods-feedstock?branchName=master&jobName=osx&configuration=osx_target_platformosx-64" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_target_platformwin-64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=3337&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsmethods-feedstock?branchName=master&jobName=win&configuration=win_target_platformwin-64" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-awsMethods-feedstock?branchName=master&jobName=win&configuration=win_target_platformwin-64" alt="variant">
                 </a>
               </td>
             </tr>
@@ -62,6 +62,7 @@ Current build status
       </details>
     </td>
   </tr>
+![ppc64le disabled](https://img.shields.io/badge/ppc64le-disabled-lightgrey.svg)
 </table>
 
 Current release info
@@ -156,10 +157,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@bgruening](https://github.com/bgruening/)
-* [@cbrueffer](https://github.com/cbrueffer/)
-* [@daler](https://github.com/daler/)
-* [@dbast](https://github.com/dbast/)
-* [@jdblischak](https://github.com/jdblischak/)
-* [@johanneskoester](https://github.com/johanneskoester/)
+* [@conda-forge/r](https://github.com/conda-forge/r/)
 
